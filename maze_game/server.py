@@ -5,6 +5,7 @@ import socket
 def pick_maze():
     random_number = random.randint(1,5)
     maze_files = [
+        # paths to the 5 mazes to choose randomly
         "C:\\Users\Tavi\Desktop\\temavs\\an 2 sem 1\\retele de calculatoare\\tema2\\maze1.txt",
         "C:\\Users\Tavi\Desktop\\temavs\\an 2 sem 1\\retele de calculatoare\\tema2\\maze2.txt",
         "C:\\Users\Tavi\Desktop\\temavs\\an 2 sem 1\\retele de calculatoare\\tema2\\maze3.txt",
