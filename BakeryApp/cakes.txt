@@ -1,0 +1,6 @@
+Tort cu ciocolata, 1500, 40.0
+Tiramisu, 1000, 45.0
+Tort cu vanilie, 1500, 30.0
+Prajitura "Carpati", 1000, 51.0
+Carrot Cake, 1400, 47.9
+Cheesecake cu fructe de padure, 1200, 40.0

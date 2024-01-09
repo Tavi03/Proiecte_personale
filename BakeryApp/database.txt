@@ -1,0 +1,5 @@
+cofetar admin
+tavi parola123
+gicu parola123
+altclient altclient123
+user parola123
