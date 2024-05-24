@@ -1,7 +1,7 @@
 <h1>Bakery App</h1>
 
 <h2>Login Form</h2>
-<img src="https://github.com/Tavi03/Proiecte_personale/assets/147004711/89f0f213-724a-4667-9122-2379943256ee">
+<img src="https://github.com/Tavi03/Proiecte_personale/assets/147004711/89f0f213-724a-4667-9122-2379943256ee" width="350">
 ![image](https://github.com/Tavi03/Proiecte_personale/assets/147004711/89f0f213-724a-4667-9122-2379943256ee)
 
 <h2>Admin App</h2>
